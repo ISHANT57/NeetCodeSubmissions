@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-09-28",
+  "lastSyncDate": "2026-10-03",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "LeetCode_Rotting_Oranges": true
+    "LeetCode_Rotting_Oranges": true,
+    "LeetCode_Longest_Word_in_Dictionary": true
   },
   "activityHistory": {
-    "2026-09-28": 1
+    "2026-09-28": 1,
+    "2026-10-03": 1
   },
   "todayProblems": [
-    "Rotting Oranges"
+    "Longest Word in Dictionary"
   ]
 }
