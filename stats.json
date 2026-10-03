@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-03",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -15,16 +15,18 @@
     "LeetCode_Longest_Word_in_Dictionary": true,
     "LeetCode_Find_the_Index_of_the_First_Occurrence_in_a_String": true,
     "LeetCode_First_Unique_Character_in_a_String": true,
-    "LeetCode_Search_a_2D_Matrix_II": true
+    "LeetCode_Search_a_2D_Matrix_II": true,
+    "LeetCode_Search_a_2D_Matrix": true
   },
   "activityHistory": {
     "2026-09-28": 1,
-    "2026-10-03": 4
+    "2026-10-03": 5
   },
   "todayProblems": [
     "Longest Word in Dictionary",
     "Find the Index of the First Occurrence in a String",
     "First Unique Character in a String",
-    "Search a 2D Matrix II"
+    "Search a 2D Matrix II",
+    "Search a 2D Matrix"
   ]
 }
