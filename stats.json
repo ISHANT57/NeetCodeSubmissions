@@ -1,11 +1,11 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-10-03",
-  "todayCount": 6,
+  "lastSyncDate": "2026-10-10",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 5,
     "hard": 0,
     "basic": 0
@@ -17,18 +17,15 @@
     "LeetCode_First_Unique_Character_in_a_String": true,
     "LeetCode_Search_a_2D_Matrix_II": true,
     "LeetCode_Search_a_2D_Matrix": true,
-    "LeetCode_Subsets_II": true
+    "LeetCode_Subsets_II": true,
+    "LeetCode_Running_Sum_of_1d_Array": true
   },
   "activityHistory": {
     "2026-09-28": 1,
-    "2026-10-03": 6
+    "2026-10-03": 6,
+    "2026-10-10": 1
   },
   "todayProblems": [
-    "Longest Word in Dictionary",
-    "Find the Index of the First Occurrence in a String",
-    "First Unique Character in a String",
-    "Search a 2D Matrix II",
-    "Search a 2D Matrix",
-    "Subsets II"
+    "Running Sum of 1d Array"
   ]
 }
