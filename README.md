@@ -9,3 +9,4 @@
 | 7 | [Subsets II](./LeetCode/Medium/Subsets%20II) | [LeetCode](https://leetcode.com/problems/subsets-ii/) | Medium | 03 Oct 2026 | 10:11 pm |
 | 8 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 10 Oct 2026 | 06:10 pm |
 | 9 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 10 Oct 2026 | 06:11 pm |
+| 10 | [Remove Duplicates from Sorted Array II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | 10 Oct 2026 | 06:12 pm |
