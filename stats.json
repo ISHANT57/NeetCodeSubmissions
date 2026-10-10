@@ -1,11 +1,11 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-10",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 8,
     "hard": 0,
     "basic": 0
@@ -24,12 +24,13 @@
     "LeetCode_Sort_Array_By_Parity": true,
     "LeetCode_Sort_Array_By_Parity_II": true,
     "LeetCode_Maximum_Subarray": true,
-    "LeetCode_Spiral_Matrix": true
+    "LeetCode_Spiral_Matrix": true,
+    "LeetCode_Defanging_an_IP_Address": true
   },
   "activityHistory": {
     "2026-09-28": 1,
     "2026-10-03": 6,
-    "2026-10-10": 7
+    "2026-10-10": 8
   },
   "todayProblems": [
     "Running Sum of 1d Array",
@@ -38,6 +39,7 @@
     "Sort Array By Parity",
     "Sort Array By Parity II",
     "Maximum Subarray",
-    "Spiral Matrix"
+    "Spiral Matrix",
+    "Defanging an IP Address"
   ]
 }

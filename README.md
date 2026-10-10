@@ -14,3 +14,4 @@
 | 12 | [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | 10 Oct 2026 | 06:29 pm |
 | 13 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 10 Oct 2026 | 06:42 pm |
 | 14 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 10 Oct 2026 | 07:40 pm |
+| 15 | [Defanging an IP Address](./LeetCode/Easy/Defanging%20an%20IP%20Address) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | 10 Oct 2026 | 09:49 pm |
