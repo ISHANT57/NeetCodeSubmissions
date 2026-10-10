@@ -1,12 +1,12 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-10",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 0
   },
@@ -22,18 +22,20 @@
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true,
     "LeetCode_Sort_Array_By_Parity": true,
-    "LeetCode_Sort_Array_By_Parity_II": true
+    "LeetCode_Sort_Array_By_Parity_II": true,
+    "LeetCode_Maximum_Subarray": true
   },
   "activityHistory": {
     "2026-09-28": 1,
     "2026-10-03": 6,
-    "2026-10-10": 5
+    "2026-10-10": 6
   },
   "todayProblems": [
     "Running Sum of 1d Array",
     "Remove Duplicates from Sorted Array",
     "Remove Duplicates from Sorted Array II",
     "Sort Array By Parity",
-    "Sort Array By Parity II"
+    "Sort Array By Parity II",
+    "Maximum Subarray"
   ]
 }
