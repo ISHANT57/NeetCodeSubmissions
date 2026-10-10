@@ -13,3 +13,4 @@
 | 11 | [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity/) | Easy | 10 Oct 2026 | 06:18 pm |
 | 12 | [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | 10 Oct 2026 | 06:29 pm |
 | 13 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 10 Oct 2026 | 06:42 pm |
+| 14 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 10 Oct 2026 | 07:40 pm |
