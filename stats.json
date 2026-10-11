@@ -1,11 +1,11 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 9,
     "hard": 0,
     "basic": 0
@@ -28,17 +28,19 @@
     "LeetCode_Defanging_an_IP_Address": true,
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Reverse_String": true,
-    "LeetCode_Reverse_Words_in_a_String": true
+    "LeetCode_Reverse_Words_in_a_String": true,
+    "LeetCode_Length_of_Last_Word": true
   },
   "activityHistory": {
     "2026-09-28": 1,
     "2026-10-03": 6,
     "2026-10-10": 8,
-    "2026-10-11": 3
+    "2026-10-11": 4
   },
   "todayProblems": [
     "Valid Palindrome",
     "Reverse String",
-    "Reverse Words in a String"
+    "Reverse Words in a String",
+    "Length of Last Word"
   ]
 }
