@@ -1,12 +1,12 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-10-17",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 11,
+    "medium": 12,
     "hard": 0,
     "basic": 0
   },
@@ -33,7 +33,8 @@
     "LeetCode_Two_Sum": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
     "GeeksForGeeks_Count_Occurrences_in_Sorted": true,
-    "GeeksForGeeks_Find_Rotation_Count": true
+    "GeeksForGeeks_Find_Rotation_Count": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -41,10 +42,11 @@
     "2026-10-10": 8,
     "2026-10-11": 4,
     "2026-10-13": 2,
-    "2026-10-17": 2
+    "2026-10-17": 3
   },
   "todayProblems": [
     "Count Occurrences in Sorted",
-    "Find Rotation Count"
+    "Find Rotation Count",
+    "Search in Rotated Sorted Array"
   ]
 }

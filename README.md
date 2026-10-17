@@ -23,3 +23,4 @@
 | 21 | [Two Sum II - Input Array Is Sorted](./LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | 13 Oct 2026 | 12:16 am |
 | 22 | [Count Occurrences in Sorted](./GeeksForGeeks/Medium/Count%20Occurrences%20in%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Medium | 17 Oct 2026 | 05:12 pm |
 | 23 | [Find Rotation Count](./GeeksForGeeks/Easy/Find%20Rotation%20Count) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotation4723/1) | Easy | 17 Oct 2026 | 05:22 pm |
+| 24 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 17 Oct 2026 | 05:46 pm |
