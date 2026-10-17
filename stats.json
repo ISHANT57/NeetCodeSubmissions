@@ -1,12 +1,12 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-10-13",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 10,
+    "medium": 11,
     "hard": 0,
     "basic": 0
   },
@@ -31,17 +31,18 @@
     "LeetCode_Reverse_Words_in_a_String": true,
     "LeetCode_Length_of_Last_Word": true,
     "LeetCode_Two_Sum": true,
-    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true
+    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
+    "GeeksForGeeks_Count_Occurrences_in_Sorted": true
   },
   "activityHistory": {
     "2026-09-28": 1,
     "2026-10-03": 6,
     "2026-10-10": 8,
     "2026-10-11": 4,
-    "2026-10-13": 2
+    "2026-10-13": 2,
+    "2026-10-17": 1
   },
   "todayProblems": [
-    "Two Sum",
-    "Two Sum II - Input Array Is Sorted"
+    "Count Occurrences in Sorted"
   ]
 }
