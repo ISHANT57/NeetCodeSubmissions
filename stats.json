@@ -1,14 +1,14 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-10-17",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 15,
     "medium": 14,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "LeetCode_Rotting_Oranges": true,
@@ -39,7 +39,8 @@
     "GeeksForGeeks_Search_in_an_almost_Sorted_Array": true,
     "GeeksForGeeks_Floor_in_Sorted_Array": true,
     "GeeksForGeeks_Ceil_in_Sorted_Array": true,
-    "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true
+    "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true,
+    "GeeksForGeeks_First_1_in_Sorted_Binary": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -47,7 +48,7 @@
     "2026-10-10": 8,
     "2026-10-11": 4,
     "2026-10-13": 2,
-    "2026-10-17": 8
+    "2026-10-17": 9
   },
   "todayProblems": [
     "Count Occurrences in Sorted",
@@ -56,6 +57,7 @@
     "Search in an almost Sorted Array",
     "Floor in Sorted Array",
     "Ceil in Sorted Array",
-    "Find Smallest Letter Greater Than Target"
+    "Find Smallest Letter Greater Than Target",
+    "First 1 in Sorted Binary"
   ]
 }

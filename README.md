@@ -28,3 +28,4 @@
 | 26 | [Floor in Sorted Array](./GeeksForGeeks/Easy/Floor%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | Easy | 17 Oct 2026 | 06:26 pm |
 | 27 | [Ceil in Sorted Array](./GeeksForGeeks/Easy/Ceil%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | Easy | 17 Oct 2026 | 06:28 pm |
 | 28 | [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | 17 Oct 2026 | 06:38 pm |
+| 29 | [First 1 in Sorted Binary](./GeeksForGeeks/Basic/First%201%20in%20Sorted%20Binary) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1) | Basic | 17 Oct 2026 | 06:50 pm |
