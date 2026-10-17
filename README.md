@@ -32,3 +32,4 @@
 | 30 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 17 Oct 2026 | 07:29 pm |
 | 31 | [Peak in Array](./GeeksForGeeks/Medium/Peak%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/peak-element/1) | Medium | 17 Oct 2026 | 07:32 pm |
 | 32 | [Bitonic Point](./GeeksForGeeks/Easy/Bitonic%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1) | Easy | 17 Oct 2026 | 07:37 pm |
+| 33 | [Find in Mountain Array](./LeetCode/Hard/Find%20in%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/find-in-mountain-array/) | Hard | 17 Oct 2026 | 08:00 pm |
