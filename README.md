@@ -24,3 +24,4 @@
 | 22 | [Count Occurrences in Sorted](./GeeksForGeeks/Medium/Count%20Occurrences%20in%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Medium | 17 Oct 2026 | 05:12 pm |
 | 23 | [Find Rotation Count](./GeeksForGeeks/Easy/Find%20Rotation%20Count) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotation4723/1) | Easy | 17 Oct 2026 | 05:22 pm |
 | 24 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 17 Oct 2026 | 05:46 pm |
+| 25 | [Search in an almost Sorted Array](./GeeksForGeeks/Medium/Search%20in%20an%20almost%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1) | Medium | 17 Oct 2026 | 06:16 pm |
