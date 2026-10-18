@@ -1,11 +1,11 @@
 {
-  "totalSolved": 44,
+  "totalSolved": 45,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 21,
     "hard": 2,
     "basic": 1
@@ -54,7 +54,8 @@
     "LeetCode_Sort_Colors": true,
     "LeetCode_Rearrange_Array_Elements_by_Sign": true,
     "LeetCode_Merge_Strings_Alternately": true,
-    "LeetCode_Merge_Sorted_Array": true
+    "LeetCode_Merge_Sorted_Array": true,
+    "LeetCode_Reverse_Vowels_of_a_String": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -63,7 +64,7 @@
     "2026-10-11": 4,
     "2026-10-13": 2,
     "2026-10-17": 13,
-    "2026-10-18": 10
+    "2026-10-18": 11
   },
   "todayProblems": [
     "3Sum",
@@ -75,6 +76,7 @@
     "Sort Colors",
     "Rearrange Array Elements by Sign",
     "Merge Strings Alternately",
-    "Merge Sorted Array"
+    "Merge Sorted Array",
+    "Reverse Vowels of a String"
   ]
 }
