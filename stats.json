@@ -1,12 +1,12 @@
 {
-  "totalSolved": 41,
+  "totalSolved": 42,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 20,
+    "medium": 21,
     "hard": 2,
     "basic": 1
   },
@@ -51,7 +51,8 @@
     "LeetCode_Trapping_Rain_Water": true,
     "LeetCode_Valid_Palindrome_II": true,
     "LeetCode_Move_Zeroes": true,
-    "LeetCode_Sort_Colors": true
+    "LeetCode_Sort_Colors": true,
+    "LeetCode_Rearrange_Array_Elements_by_Sign": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -60,7 +61,7 @@
     "2026-10-11": 4,
     "2026-10-13": 2,
     "2026-10-17": 13,
-    "2026-10-18": 7
+    "2026-10-18": 8
   },
   "todayProblems": [
     "3Sum",
@@ -69,6 +70,7 @@
     "Trapping Rain Water",
     "Valid Palindrome II",
     "Move Zeroes",
-    "Sort Colors"
+    "Sort Colors",
+    "Rearrange Array Elements by Sign"
   ]
 }
