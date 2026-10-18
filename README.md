@@ -42,3 +42,4 @@
 | 40 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 18 Oct 2026 | 03:31 pm |
 | 41 | [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 18 Oct 2026 | 04:02 pm |
 | 42 | [Merge Strings Alternately](./LeetCode/Easy/Merge%20Strings%20Alternately) | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | Easy | 18 Oct 2026 | 04:16 pm |
+| 43 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 18 Oct 2026 | 04:30 pm |
