@@ -47,3 +47,4 @@
 | 45 | [Number of Subsequences That Satisfy the Given Sum Condition](./LeetCode/Medium/Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition) | [LeetCode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | 18 Oct 2026 | 06:00 pm |
 | 46 | [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 19 Oct 2026 | 01:13 pm |
 | 47 | [Minimum Number of Days to Make m Bouquets](./LeetCode/Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | 19 Oct 2026 | 02:08 pm |
+| 48 | [Minimum Time to Complete Trips](./LeetCode/Medium/Minimum%20Time%20to%20Complete%20Trips) | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | 19 Oct 2026 | 02:50 pm |
