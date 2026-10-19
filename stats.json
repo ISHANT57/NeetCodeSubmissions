@@ -1,12 +1,12 @@
 {
-  "totalSolved": 49,
+  "totalSolved": 50,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 22,
-    "medium": 24,
+    "medium": 25,
     "hard": 2,
     "basic": 1
   },
@@ -59,7 +59,8 @@
     "LeetCode_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
     "LeetCode_Minimum_Number_of_Days_to_Make_m_Bouquets": true,
-    "LeetCode_Minimum_Time_to_Complete_Trips": true
+    "LeetCode_Minimum_Time_to_Complete_Trips": true,
+    "LeetCode_Koko_Eating_Bananas": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -69,11 +70,12 @@
     "2026-10-13": 2,
     "2026-10-17": 13,
     "2026-10-18": 12,
-    "2026-10-19": 3
+    "2026-10-19": 4
   },
   "todayProblems": [
     "Best Time to Buy and Sell Stock",
     "Minimum Number of Days to Make m Bouquets",
-    "Minimum Time to Complete Trips"
+    "Minimum Time to Complete Trips",
+    "Koko Eating Bananas"
   ]
 }
