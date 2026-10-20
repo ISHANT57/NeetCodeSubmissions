@@ -53,3 +53,4 @@
 | 51 | [Alternating Groups I](./LeetCode/Easy/Alternating%20Groups%20I) | [LeetCode](https://leetcode.com/problems/alternating-groups-i/) | Easy | 20 Oct 2026 | 08:29 am |
 | 52 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 20 Oct 2026 | 09:23 am |
 | 53 | [Binary Subarrays With Sum](./LeetCode/Medium/Binary%20Subarrays%20With%20Sum) | [LeetCode](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | 20 Oct 2026 | 09:25 am |
+| 54 | [Count Complete Subarrays in an Array](./LeetCode/Medium/Count%20Complete%20Subarrays%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | Medium | 20 Oct 2026 | 12:44 pm |
