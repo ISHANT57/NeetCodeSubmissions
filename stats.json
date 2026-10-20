@@ -1,12 +1,12 @@
 {
-  "totalSolved": 58,
+  "totalSolved": 59,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-20",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 24,
-    "medium": 31,
+    "medium": 32,
     "hard": 2,
     "basic": 1
   },
@@ -68,7 +68,8 @@
     "LeetCode_Count_Complete_Subarrays_in_an_Array": true,
     "LeetCode_Maximum_Sum_of_Distinct_Subarrays_With_Length_K": true,
     "GeeksForGeeks_Smallest_Window_With_0,_1_and_2": true,
-    "LeetCode_Continuous_Subarrays": true
+    "LeetCode_Continuous_Subarrays": true,
+    "GeeksForGeeks_Count_Occurences_of_Anagrams": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -79,7 +80,7 @@
     "2026-10-17": 13,
     "2026-10-18": 12,
     "2026-10-19": 4,
-    "2026-10-20": 8
+    "2026-10-20": 9
   },
   "todayProblems": [
     "Alternating Groups II",
@@ -89,6 +90,7 @@
     "Count Complete Subarrays in an Array",
     "Maximum Sum of Distinct Subarrays With Length K",
     "Smallest Window With 0, 1 and 2",
-    "Continuous Subarrays"
+    "Continuous Subarrays",
+    "Count Occurences of Anagrams"
   ]
 }

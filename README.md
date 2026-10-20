@@ -57,3 +57,4 @@
 | 55 | [Maximum Sum of Distinct Subarrays With Length K](./LeetCode/Medium/Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K) | [LeetCode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium | 20 Oct 2026 | 01:17 pm |
 | 56 | [Smallest Window With 0, 1 and 2](./GeeksForGeeks/Easy/Smallest%20Window%20With%200%2C%201%20and%202) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1) | Easy | 20 Oct 2026 | 02:03 pm |
 | 57 | [Continuous Subarrays](./LeetCode/Medium/Continuous%20Subarrays) | [LeetCode](https://leetcode.com/problems/continuous-subarrays/) | Medium | 20 Oct 2026 | 02:19 pm |
+| 58 | [Count Occurences of Anagrams](./GeeksForGeeks/Medium/Count%20Occurences%20of%20Anagrams) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1) | Medium | 20 Oct 2026 | 02:33 pm |
