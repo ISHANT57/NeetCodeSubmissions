@@ -60,3 +60,4 @@
 | 58 | [Count Occurences of Anagrams](./GeeksForGeeks/Medium/Count%20Occurences%20of%20Anagrams) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1) | Medium | 20 Oct 2026 | 02:33 pm |
 | 59 | [Find All Anagrams in a String](./LeetCode/Medium/Find%20All%20Anagrams%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | 20 Oct 2026 | 02:49 pm |
 | 60 | [Frequency of the Most Frequent Element](./LeetCode/Medium/Frequency%20of%20the%20Most%20Frequent%20Element) | [LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | 20 Oct 2026 | 03:19 pm |
+| 61 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 20 Oct 2026 | 05:13 pm |
