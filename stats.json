@@ -1,12 +1,12 @@
 {
-  "totalSolved": 55,
+  "totalSolved": 56,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-20",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 29,
+    "medium": 30,
     "hard": 2,
     "basic": 1
   },
@@ -65,7 +65,8 @@
     "LeetCode_Alternating_Groups_I": true,
     "LeetCode_Subarray_Sum_Equals_K": true,
     "LeetCode_Binary_Subarrays_With_Sum": true,
-    "LeetCode_Count_Complete_Subarrays_in_an_Array": true
+    "LeetCode_Count_Complete_Subarrays_in_an_Array": true,
+    "LeetCode_Maximum_Sum_of_Distinct_Subarrays_With_Length_K": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -76,13 +77,14 @@
     "2026-10-17": 13,
     "2026-10-18": 12,
     "2026-10-19": 4,
-    "2026-10-20": 5
+    "2026-10-20": 6
   },
   "todayProblems": [
     "Alternating Groups II",
     "Alternating Groups I",
     "Subarray Sum Equals K",
     "Binary Subarrays With Sum",
-    "Count Complete Subarrays in an Array"
+    "Count Complete Subarrays in an Array",
+    "Maximum Sum of Distinct Subarrays With Length K"
   ]
 }
