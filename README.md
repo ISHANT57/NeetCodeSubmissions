@@ -49,3 +49,4 @@
 | 47 | [Minimum Number of Days to Make m Bouquets](./LeetCode/Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | 19 Oct 2026 | 02:08 pm |
 | 48 | [Minimum Time to Complete Trips](./LeetCode/Medium/Minimum%20Time%20to%20Complete%20Trips) | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | 19 Oct 2026 | 02:50 pm |
 | 49 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 19 Oct 2026 | 03:07 pm |
+| 50 | [Alternating Groups II](./LeetCode/Medium/Alternating%20Groups%20II) | [LeetCode](https://leetcode.com/problems/alternating-groups-ii/) | Medium | 20 Oct 2026 | 08:24 am |
