@@ -1,12 +1,12 @@
 {
-  "totalSolved": 60,
+  "totalSolved": 61,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-20",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 24,
-    "medium": 33,
+    "medium": 34,
     "hard": 2,
     "basic": 1
   },
@@ -70,7 +70,8 @@
     "GeeksForGeeks_Smallest_Window_With_0,_1_and_2": true,
     "LeetCode_Continuous_Subarrays": true,
     "GeeksForGeeks_Count_Occurences_of_Anagrams": true,
-    "LeetCode_Find_All_Anagrams_in_a_String": true
+    "LeetCode_Find_All_Anagrams_in_a_String": true,
+    "LeetCode_Frequency_of_the_Most_Frequent_Element": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -81,7 +82,7 @@
     "2026-10-17": 13,
     "2026-10-18": 12,
     "2026-10-19": 4,
-    "2026-10-20": 10
+    "2026-10-20": 11
   },
   "todayProblems": [
     "Alternating Groups II",
@@ -93,6 +94,7 @@
     "Smallest Window With 0, 1 and 2",
     "Continuous Subarrays",
     "Count Occurences of Anagrams",
-    "Find All Anagrams in a String"
+    "Find All Anagrams in a String",
+    "Frequency of the Most Frequent Element"
   ]
 }
