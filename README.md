@@ -55,3 +55,4 @@
 | 53 | [Binary Subarrays With Sum](./LeetCode/Medium/Binary%20Subarrays%20With%20Sum) | [LeetCode](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | 20 Oct 2026 | 09:25 am |
 | 54 | [Count Complete Subarrays in an Array](./LeetCode/Medium/Count%20Complete%20Subarrays%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | Medium | 20 Oct 2026 | 12:44 pm |
 | 55 | [Maximum Sum of Distinct Subarrays With Length K](./LeetCode/Medium/Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K) | [LeetCode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium | 20 Oct 2026 | 01:17 pm |
+| 56 | [Smallest Window With 0, 1 and 2](./GeeksForGeeks/Easy/Smallest%20Window%20With%200%2C%201%20and%202) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1) | Easy | 20 Oct 2026 | 02:03 pm |
