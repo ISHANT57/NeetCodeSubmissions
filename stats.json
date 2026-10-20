@@ -1,12 +1,12 @@
 {
-  "totalSolved": 52,
+  "totalSolved": 53,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-20",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 26,
+    "medium": 27,
     "hard": 2,
     "basic": 1
   },
@@ -62,7 +62,8 @@
     "LeetCode_Minimum_Time_to_Complete_Trips": true,
     "LeetCode_Koko_Eating_Bananas": true,
     "LeetCode_Alternating_Groups_II": true,
-    "LeetCode_Alternating_Groups_I": true
+    "LeetCode_Alternating_Groups_I": true,
+    "LeetCode_Subarray_Sum_Equals_K": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -73,10 +74,11 @@
     "2026-10-17": 13,
     "2026-10-18": 12,
     "2026-10-19": 4,
-    "2026-10-20": 2
+    "2026-10-20": 3
   },
   "todayProblems": [
     "Alternating Groups II",
-    "Alternating Groups I"
+    "Alternating Groups I",
+    "Subarray Sum Equals K"
   ]
 }

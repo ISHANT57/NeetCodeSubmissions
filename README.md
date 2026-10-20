@@ -51,3 +51,4 @@
 | 49 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 19 Oct 2026 | 03:07 pm |
 | 50 | [Alternating Groups II](./LeetCode/Medium/Alternating%20Groups%20II) | [LeetCode](https://leetcode.com/problems/alternating-groups-ii/) | Medium | 20 Oct 2026 | 08:24 am |
 | 51 | [Alternating Groups I](./LeetCode/Easy/Alternating%20Groups%20I) | [LeetCode](https://leetcode.com/problems/alternating-groups-i/) | Easy | 20 Oct 2026 | 08:29 am |
+| 52 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 20 Oct 2026 | 09:23 am |
