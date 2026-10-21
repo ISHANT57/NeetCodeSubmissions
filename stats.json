@@ -1,13 +1,13 @@
 {
-  "totalSolved": 62,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-10-20",
-  "todayCount": 12,
+  "totalSolved": 63,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-10-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 24,
     "medium": 35,
-    "hard": 2,
+    "hard": 3,
     "basic": 1
   },
   "syncedProblems": {
@@ -72,7 +72,8 @@
     "GeeksForGeeks_Count_Occurences_of_Anagrams": true,
     "LeetCode_Find_All_Anagrams_in_a_String": true,
     "LeetCode_Frequency_of_the_Most_Frequent_Element": true,
-    "LeetCode_Permutation_in_String": true
+    "LeetCode_Permutation_in_String": true,
+    "LeetCode_Minimum_Window_Substring": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -83,20 +84,10 @@
     "2026-10-17": 13,
     "2026-10-18": 12,
     "2026-10-19": 4,
-    "2026-10-20": 12
+    "2026-10-20": 12,
+    "2026-10-21": 1
   },
   "todayProblems": [
-    "Alternating Groups II",
-    "Alternating Groups I",
-    "Subarray Sum Equals K",
-    "Binary Subarrays With Sum",
-    "Count Complete Subarrays in an Array",
-    "Maximum Sum of Distinct Subarrays With Length K",
-    "Smallest Window With 0, 1 and 2",
-    "Continuous Subarrays",
-    "Count Occurences of Anagrams",
-    "Find All Anagrams in a String",
-    "Frequency of the Most Frequent Element",
-    "Permutation in String"
+    "Minimum Window Substring"
   ]
 }
