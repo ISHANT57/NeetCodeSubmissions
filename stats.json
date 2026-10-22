@@ -1,12 +1,12 @@
 {
-  "totalSolved": 64,
+  "totalSolved": 65,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 24,
-    "medium": 36,
+    "medium": 37,
     "hard": 3,
     "basic": 1
   },
@@ -74,7 +74,8 @@
     "LeetCode_Frequency_of_the_Most_Frequent_Element": true,
     "LeetCode_Permutation_in_String": true,
     "LeetCode_Minimum_Window_Substring": true,
-    "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true
+    "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
+    "LeetCode_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -87,9 +88,10 @@
     "2026-10-19": 4,
     "2026-10-20": 12,
     "2026-10-21": 1,
-    "2026-10-22": 1
+    "2026-10-22": 2
   },
   "todayProblems": [
-    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold"
+    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "Maximum Number of Vowels in a Substring of Given Length"
   ]
 }
