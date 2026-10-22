@@ -62,3 +62,4 @@
 | 60 | [Frequency of the Most Frequent Element](./LeetCode/Medium/Frequency%20of%20the%20Most%20Frequent%20Element) | [LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | 20 Oct 2026 | 03:19 pm |
 | 61 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 20 Oct 2026 | 05:13 pm |
 | 62 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 21 Oct 2026 | 04:46 pm |
+| 63 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./LeetCode/Medium/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium | 22 Oct 2026 | 09:06 am |
