@@ -67,3 +67,4 @@
 | 65 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 22 Oct 2026 | 09:16 am |
 | 66 | [Sliding Window Maximum](./LeetCode/Hard/Sliding%20Window%20Maximum) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) | Hard | 22 Oct 2026 | 11:10 am |
 | 67 | [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 26 Oct 2026 | 09:50 am |
+| 68 | [Average of Levels in Binary Tree](./LeetCode/Easy/Average%20of%20Levels%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | 26 Oct 2026 | 09:51 am |
