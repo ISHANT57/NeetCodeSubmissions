@@ -1,12 +1,12 @@
 {
-  "totalSolved": 71,
+  "totalSolved": 72,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-26",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 25,
-    "medium": 41,
+    "medium": 42,
     "hard": 4,
     "basic": 1
   },
@@ -81,7 +81,8 @@
     "LeetCode_Binary_Tree_Level_Order_Traversal": true,
     "LeetCode_Average_of_Levels_in_Binary_Tree": true,
     "LeetCode_Binary_Tree_Level_Order_Traversal_II": true,
-    "LeetCode_Binary_Tree_Right_Side_View": true
+    "LeetCode_Binary_Tree_Right_Side_View": true,
+    "LeetCode_Find_Largest_Value_in_Each_Tree_Row": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -95,12 +96,13 @@
     "2026-10-20": 12,
     "2026-10-21": 1,
     "2026-10-22": 4,
-    "2026-10-26": 4
+    "2026-10-26": 5
   },
   "todayProblems": [
     "Binary Tree Level Order Traversal",
     "Average of Levels in Binary Tree",
     "Binary Tree Level Order Traversal II",
-    "Binary Tree Right Side View"
+    "Binary Tree Right Side View",
+    "Find Largest Value in Each Tree Row"
   ]
 }
