@@ -72,3 +72,4 @@
 | 70 | [Binary Tree Right Side View](./LeetCode/Medium/Binary%20Tree%20Right%20Side%20View) | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | 26 Oct 2026 | 09:51 am |
 | 71 | [Find Largest Value in Each Tree Row](./LeetCode/Medium/Find%20Largest%20Value%20in%20Each%20Tree%20Row) | [LeetCode](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | 26 Oct 2026 | 09:51 am |
 | 72 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 26 Oct 2026 | 09:51 am |
+| 73 | [Minimum Depth of Binary Tree](./LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | 26 Oct 2026 | 10:13 am |
