@@ -76,3 +76,4 @@
 | 74 | [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 26 Oct 2026 | 04:44 pm |
 | 75 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 28 Oct 2026 | 11:11 am |
 | 76 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 28 Oct 2026 | 11:22 am |
+| 77 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 28 Oct 2026 | 07:52 pm |
