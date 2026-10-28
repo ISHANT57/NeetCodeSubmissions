@@ -1,12 +1,12 @@
 {
-  "totalSolved": 78,
+  "totalSolved": 79,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-28",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 29,
-    "medium": 44,
+    "medium": 45,
     "hard": 4,
     "basic": 1
   },
@@ -88,7 +88,8 @@
     "LeetCode_Search_in_a_Binary_Search_Tree": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true,
-    "LeetCode_Contains_Duplicate_II": true
+    "LeetCode_Contains_Duplicate_II": true,
+    "LeetCode_Find_the_Power_of_K-Size_Subarrays_I": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -103,11 +104,12 @@
     "2026-10-21": 1,
     "2026-10-22": 4,
     "2026-10-26": 8,
-    "2026-10-28": 3
+    "2026-10-28": 4
   },
   "todayProblems": [
     "Lowest Common Ancestor of a Binary Tree",
     "Lowest Common Ancestor of a Binary Search Tree",
-    "Contains Duplicate II"
+    "Contains Duplicate II",
+    "Find the Power of K-Size Subarrays I"
   ]
 }
