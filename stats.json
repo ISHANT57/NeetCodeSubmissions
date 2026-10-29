@@ -1,11 +1,11 @@
 {
-  "totalSolved": 81,
+  "totalSolved": 82,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 31,
+    "easy": 32,
     "medium": 45,
     "hard": 4,
     "basic": 1
@@ -91,7 +91,8 @@
     "LeetCode_Contains_Duplicate_II": true,
     "LeetCode_Find_the_Power_of_K-Size_Subarrays_I": true,
     "LeetCode_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks": true,
-    "LeetCode_Minimum_Absolute_Difference_in_BST": true
+    "LeetCode_Minimum_Absolute_Difference_in_BST": true,
+    "LeetCode_Minimum_Distance_Between_BST_Nodes": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -107,9 +108,10 @@
     "2026-10-22": 4,
     "2026-10-26": 8,
     "2026-10-28": 5,
-    "2026-10-29": 1
+    "2026-10-29": 2
   },
   "todayProblems": [
-    "Minimum Absolute Difference in BST"
+    "Minimum Absolute Difference in BST",
+    "Minimum Distance Between BST Nodes"
   ]
 }
