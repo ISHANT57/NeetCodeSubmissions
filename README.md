@@ -79,3 +79,4 @@
 | 77 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 28 Oct 2026 | 07:52 pm |
 | 78 | [Find the Power of K-Size Subarrays I](./LeetCode/Medium/Find%20the%20Power%20of%20K-Size%20Subarrays%20I) | [LeetCode](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | Medium | 28 Oct 2026 | 08:51 pm |
 | 79 | [Minimum Recolors to Get K Consecutive Black Blocks](./LeetCode/Easy/Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks) | [LeetCode](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | 28 Oct 2026 | 08:51 pm |
+| 80 | [Minimum Absolute Difference in BST](./LeetCode/Easy/Minimum%20Absolute%20Difference%20in%20BST) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 29 Oct 2026 | 08:53 am |
