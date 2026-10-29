@@ -82,3 +82,4 @@
 | 80 | [Minimum Absolute Difference in BST](./LeetCode/Easy/Minimum%20Absolute%20Difference%20in%20BST) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 29 Oct 2026 | 08:53 am |
 | 81 | [Minimum Distance Between BST Nodes](./LeetCode/Easy/Minimum%20Distance%20Between%20BST%20Nodes) | [LeetCode](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | 29 Oct 2026 | 08:54 am |
 | 82 | [Convert BST to Greater Tree](./LeetCode/Medium/Convert%20BST%20to%20Greater%20Tree) | [LeetCode](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Medium | 29 Oct 2026 | 09:01 am |
+| 83 | [Two Sum IV - Input is a BST](./LeetCode/Easy/Two%20Sum%20IV%20-%20Input%20is%20a%20BST) | [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | 29 Oct 2026 | 09:03 am |

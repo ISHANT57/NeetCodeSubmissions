@@ -1,11 +1,11 @@
 {
-  "totalSolved": 83,
+  "totalSolved": 84,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 32,
+    "easy": 33,
     "medium": 46,
     "hard": 4,
     "basic": 1
@@ -93,7 +93,8 @@
     "LeetCode_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks": true,
     "LeetCode_Minimum_Absolute_Difference_in_BST": true,
     "LeetCode_Minimum_Distance_Between_BST_Nodes": true,
-    "LeetCode_Convert_BST_to_Greater_Tree": true
+    "LeetCode_Convert_BST_to_Greater_Tree": true,
+    "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -109,11 +110,12 @@
     "2026-10-22": 4,
     "2026-10-26": 8,
     "2026-10-28": 5,
-    "2026-10-29": 3
+    "2026-10-29": 4
   },
   "todayProblems": [
     "Minimum Absolute Difference in BST",
     "Minimum Distance Between BST Nodes",
-    "Convert BST to Greater Tree"
+    "Convert BST to Greater Tree",
+    "Two Sum IV - Input is a BST"
   ]
 }
