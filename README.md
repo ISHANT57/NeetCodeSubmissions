@@ -87,3 +87,4 @@
 | 85 | [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 29 Oct 2026 | 09:10 am |
 | 86 | [Range Sum of BST](./LeetCode/Easy/Range%20Sum%20of%20BST) | [LeetCode](https://leetcode.com/problems/range-sum-of-bst/) | Easy | 29 Oct 2026 | 09:14 am |
 | 87 | [Binary Search Tree to Greater Sum Tree](./LeetCode/Medium/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree) | [LeetCode](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium | 29 Oct 2026 | 09:20 am |
+| 88 | [Balance a Binary Search Tree](./LeetCode/Medium/Balance%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | 29 Oct 2026 | 09:27 am |

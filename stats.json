@@ -1,12 +1,12 @@
 {
-  "totalSolved": 88,
+  "totalSolved": 89,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 34,
-    "medium": 49,
+    "medium": 50,
     "hard": 4,
     "basic": 1
   },
@@ -98,7 +98,8 @@
     "LeetCode_Trim_a_Binary_Search_Tree": true,
     "LeetCode_Insert_into_a_Binary_Search_Tree": true,
     "LeetCode_Range_Sum_of_BST": true,
-    "LeetCode_Binary_Search_Tree_to_Greater_Sum_Tree": true
+    "LeetCode_Binary_Search_Tree_to_Greater_Sum_Tree": true,
+    "LeetCode_Balance_a_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -114,7 +115,7 @@
     "2026-10-22": 4,
     "2026-10-26": 8,
     "2026-10-28": 5,
-    "2026-10-29": 8
+    "2026-10-29": 9
   },
   "todayProblems": [
     "Minimum Absolute Difference in BST",
@@ -124,6 +125,7 @@
     "Trim a Binary Search Tree",
     "Insert into a Binary Search Tree",
     "Range Sum of BST",
-    "Binary Search Tree to Greater Sum Tree"
+    "Binary Search Tree to Greater Sum Tree",
+    "Balance a Binary Search Tree"
   ]
 }
