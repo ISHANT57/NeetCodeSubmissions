@@ -1,12 +1,12 @@
 {
-  "totalSolved": 100,
+  "totalSolved": 101,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-01",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 58,
+    "medium": 59,
     "hard": 4,
     "basic": 1
   },
@@ -109,8 +109,9 @@
     "GeeksForGeeks_Aggressive_Cows": true,
     "GeeksForGeeks_Second_Largest": true,
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_â_Multiple_Transaction_Allowed": true,
-    "GeeksForGeeks_Rotate_Array": true
+    "GeeksForGeeks_Stock_Buy_and_Sell_Ã¢ÂÂ_Multiple_Transaction_Allowed": true,
+    "GeeksForGeeks_Rotate_Array": true,
+    "GeeksForGeeks_Smallest_Positive_Missing": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -127,7 +128,7 @@
     "2026-10-26": 8,
     "2026-10-28": 5,
     "2026-10-29": 9,
-    "2026-11-01": 11
+    "2026-11-01": 12
   },
   "todayProblems": [
     "String Rotation Check",
@@ -139,7 +140,8 @@
     "Aggressive Cows",
     "Second Largest",
     "Move All Zeroes to End",
-    "Stock Buy and Sell â Multiple Transaction Allowed",
-    "Rotate Array"
+    "Stock Buy and Sell Ã¢ÂÂ Multiple Transaction Allowed",
+    "Rotate Array",
+    "Smallest Positive Missing"
   ]
 }
