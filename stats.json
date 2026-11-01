@@ -1,12 +1,12 @@
 {
-  "totalSolved": 101,
+  "totalSolved": 102,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-01",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 59,
+    "medium": 60,
     "hard": 4,
     "basic": 1
   },
@@ -109,9 +109,10 @@
     "GeeksForGeeks_Aggressive_Cows": true,
     "GeeksForGeeks_Second_Largest": true,
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_Ã¢ÂÂ_Multiple_Transaction_Allowed": true,
+    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂ¢ÃÂÃÂ_Multiple_Transaction_Allowed": true,
     "GeeksForGeeks_Rotate_Array": true,
-    "GeeksForGeeks_Smallest_Positive_Missing": true
+    "GeeksForGeeks_Smallest_Positive_Missing": true,
+    "GeeksForGeeks_Add_Binary_Strings": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -128,7 +129,7 @@
     "2026-10-26": 8,
     "2026-10-28": 5,
     "2026-10-29": 9,
-    "2026-11-01": 12
+    "2026-11-01": 13
   },
   "todayProblems": [
     "String Rotation Check",
@@ -140,8 +141,9 @@
     "Aggressive Cows",
     "Second Largest",
     "Move All Zeroes to End",
-    "Stock Buy and Sell Ã¢ÂÂ Multiple Transaction Allowed",
+    "Stock Buy and Sell ÃÂ¢ÃÂÃÂ Multiple Transaction Allowed",
     "Rotate Array",
-    "Smallest Positive Missing"
+    "Smallest Positive Missing",
+    "Add Binary Strings"
   ]
 }
