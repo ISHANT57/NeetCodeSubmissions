@@ -91,3 +91,4 @@
 | 89 | [String Rotation Check](./GeeksForGeeks/Medium/String%20Rotation%20Check) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1) | Medium | 01 Nov 2026 | 03:41 pm |
 | 90 | [Sort 0s, 1s and 2s](./GeeksForGeeks/Medium/Sort%200s%2C%201s%20and%202s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | 01 Nov 2026 | 03:42 pm |
 | 91 | [H-Index of Researcher](./GeeksForGeeks/Medium/H-Index%20of%20Researcher) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-h-index--165609/1) | Medium | 01 Nov 2026 | 03:44 pm |
+| 92 | [Merge Without Extra Space](./GeeksForGeeks/Medium/Merge%20Without%20Extra%20Space) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | Medium | 01 Nov 2026 | 03:55 pm |
