@@ -94,3 +94,4 @@
 | 92 | [Merge Without Extra Space](./GeeksForGeeks/Medium/Merge%20Without%20Extra%20Space) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | Medium | 01 Nov 2026 | 03:55 pm |
 | 93 | [Sorted and Rotated Minimum](./GeeksForGeeks/Easy/Sorted%20and%20Rotated%20Minimum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1) | Easy | 01 Nov 2026 | 04:00 pm |
 | 94 | [K-th of Two Sorted Arrays](./GeeksForGeeks/Medium/K-th%20of%20Two%20Sorted%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) | Medium | 01 Nov 2026 | 04:06 pm |
+| 95 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 01 Nov 2026 | 04:20 pm |
