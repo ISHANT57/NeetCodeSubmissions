@@ -97,4 +97,5 @@
 | 95 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 01 Nov 2026 | 04:20 pm |
 | 96 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 01 Nov 2026 | 05:14 pm |
 | 97 | [Move All Zeroes to End](./GeeksForGeeks/Easy/Move%20All%20Zeroes%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | Easy | 01 Nov 2026 | 05:15 pm |
-| 98 | [Stock Buy and Sell – Multiple Transaction Allowed](./GeeksForGeeks/Medium/Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | Medium | 01 Nov 2026 | 05:16 pm |
+| 98 | [Stock Buy and Sell â Multiple Transaction Allowed](./GeeksForGeeks/Medium/Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | Medium | 01 Nov 2026 | 05:16 pm |
+| 99 | [Rotate Array](./GeeksForGeeks/Medium/Rotate%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | Medium | 01 Nov 2026 | 05:16 pm |
