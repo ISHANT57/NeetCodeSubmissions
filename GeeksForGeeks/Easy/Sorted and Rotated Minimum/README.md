@@ -1,0 +1,19 @@
+# Sorted and Rotated Minimum
+
+## Difficulty: Easy
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1)
+
+## Solved On
+01 Nov 2026 at 04:00 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1">Sorted and Rotated Minimum</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 18.6667px;">A sorted array<strong>&nbsp;</strong></span><span style="font-size: 18.6667px;">of distinct elements </span><strong style="font-size: 18.6667px;">arr[]</strong><span style="font-size: 18.6667px;">&nbsp;is rotated at some unknown point, the task is to find the minimum element in it.&nbsp;</span></p><p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p><pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [5, 6, 1, 2, 3, 4]
+<strong>Output: </strong>1
+<strong>Explanation:</strong> 1 is the minimum element in the array.</span></pre><pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [3, 1, 2]
+<strong>Output: </strong>1
+<strong>Explanation:</strong> Here 1 is the minimum element.<br></span></pre><pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [4, 2, 3]
+<strong>Output: </strong>2
+<strong>Explanation:</strong> Here 2 is the minimum element.</span></pre>

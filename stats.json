@@ -1,11 +1,11 @@
 {
-  "totalSolved": 93,
+  "totalSolved": 94,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-01",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 34,
+    "easy": 35,
     "medium": 54,
     "hard": 4,
     "basic": 1
@@ -103,7 +103,8 @@
     "GeeksForGeeks_String_Rotation_Check": true,
     "GeeksForGeeks_Sort_0s,_1s_and_2s": true,
     "GeeksForGeeks_H-Index_of_Researcher": true,
-    "GeeksForGeeks_Merge_Without_Extra_Space": true
+    "GeeksForGeeks_Merge_Without_Extra_Space": true,
+    "GeeksForGeeks_Sorted_and_Rotated_Minimum": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -120,12 +121,13 @@
     "2026-10-26": 8,
     "2026-10-28": 5,
     "2026-10-29": 9,
-    "2026-11-01": 4
+    "2026-11-01": 5
   },
   "todayProblems": [
     "String Rotation Check",
     "Sort 0s, 1s and 2s",
     "H-Index of Researcher",
-    "Merge Without Extra Space"
+    "Merge Without Extra Space",
+    "Sorted and Rotated Minimum"
   ]
 }
