@@ -1,0 +1,13 @@
+# H-Index of Researcher
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/find-h-index--165609/1)
+
+## Solved On
+01 Nov 2026 at 03:44 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/find-h-index--165609/1">H-Index of Researcher</a></h2><h3>Difficulty Level: Medium</h3><hr><p data-pm-slice="1 1 []"><span style="font-size: 18.6667px;">You are given an array </span><strong style="font-size: 18.6667px;">citations[],</strong><span style="font-size: 18.6667px;"> where </span><span style="font-size: 18.6667px;">citations[i]</span><span style="font-size: 18.6667px;"> represents the number of </span><span style="font-size: 18.6667px;">citations</span><span style="font-size: 18.6667px;"> received by the </span><strong style="font-size: 18.6667px;">i<sup>th</sup></strong><span style="font-size: 18.6667px;"> paper of a researcher. You need to calculate the researcher’s H</span><span style="font-size: 18.6667px;">-index</span><span style="font-size: 18.6667px;">.</span></p><p data-pm-slice="1 1 []"><span style="font-size: 18.6667px;">The H-index is defined as the maximum value H, such that the researcher has published at least H papers, and all those papers have citation value greater than or equal to H.</span></p><p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p><pre><span style="font-size: 14pt;"><strong>Input: </strong><span style="color: #273239; font-family: Nunito, sans-serif; letter-spacing: 0.162px; white-space: normal;">citations</span>[] = [3, 0, 5, 3, 0]<br></span><span style="font-size: 14pt;"><strong>Output:</strong> 3<br><strong>Explanation:</strong> There are at least 3 papers with citation counts of 3, 5, and 3, all having citations greater than or equal to 3.</span></pre><pre><span style="font-size: 14pt;"><strong>Input:</strong> citations[] = [5, 1, 2, 4, 1]<br><strong>Output:</strong> 2<br><strong>Explanation:</strong> There are 3 papers (with citation counts of 5, 2, and 4) that have 2 or more citations. However, the H-Index cannot be 3 because there aren't 3 papers with 3 or more citations.<br></span></pre><pre><span style="font-size: 14pt;"><strong>Input:</strong> citations[] = [0, 0]<br><strong>Output:</strong> 0<br><strong>Explanation:</strong> The H-index is <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">0</span></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"> <span style="font-size: 14pt;">because there are no papers with at least 1 citation.</span></span></pre>
