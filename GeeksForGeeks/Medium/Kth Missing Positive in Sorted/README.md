@@ -1,0 +1,19 @@
+# Kth Missing Positive in Sorted
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1)
+
+## Solved On
+04 Nov 2026 at 04:46 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1">Kth Missing Positive in Sorted</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 18px; vertical-align: baseline; color: #273239; font-family: Nunito, sans-serif; letter-spacing: 0.162px; background-color: #ffffff;">Given a sorted array of distinct positive integers </span><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 18px; vertical-align: baseline; color: #273239; font-family: Nunito, sans-serif; letter-spacing: 0.162px; background-color: #ffffff;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline;">arr[]</strong></strong><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 18px; vertical-align: baseline; color: #273239; font-family: Nunito, sans-serif; letter-spacing: 0.162px; background-color: #ffffff;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline;"> and a number <strong>k</strong></span>, You need to find the kth positive number that is missing<strong> </strong>from the arr[].</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [2, 3, 4, 7, 11], k = 5<br><strong>Output: </strong>9<strong>
+Explanation: </strong>Missing are 1, 5, 6, 8, 9, 10… and 5th missing number is 9.</span>
+</pre><pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [1, 2, 3], k = 2
+<strong>Output: </strong>5<strong>
+Explanation: </strong>Missing are 4, 5, 6… and 2nd missing number is 5.<br></span></pre><pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [3, 5, 9, 10, 11, 12], k = 2
+<strong>Output: </strong>2<strong>
+Explanation: </strong>Missing are 1, 2, 4, 6… and 2nd missing number is 2.</span></pre>
