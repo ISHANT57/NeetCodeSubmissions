@@ -1,13 +1,13 @@
 {
-  "totalSolved": 105,
+  "totalSolved": 106,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-04",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 37,
     "medium": 62,
-    "hard": 5,
+    "hard": 6,
     "basic": 1
   },
   "syncedProblems": {
@@ -109,13 +109,14 @@
     "GeeksForGeeks_Aggressive_Cows": true,
     "GeeksForGeeks_Second_Largest": true,
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Multiple_Transaction_Allowed": true,
+    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Multiple_Transaction_Allowed": true,
     "GeeksForGeeks_Rotate_Array": true,
     "GeeksForGeeks_Smallest_Positive_Missing": true,
     "GeeksForGeeks_Add_Binary_Strings": true,
     "GeeksForGeeks_Search_Pattern": true,
     "GeeksForGeeks_Allocate_Minimum_Pages": true,
-    "GeeksForGeeks_Kth_Missing_Positive_in_Sorted": true
+    "GeeksForGeeks_Kth_Missing_Positive_in_Sorted": true,
+    "LeetCode_First_Missing_Positive": true
   },
   "activityHistory": {
     "2026-09-28": 1,
@@ -133,10 +134,11 @@
     "2026-10-28": 5,
     "2026-10-29": 9,
     "2026-11-01": 14,
-    "2026-11-04": 2
+    "2026-11-04": 3
   },
   "todayProblems": [
     "Allocate Minimum Pages",
-    "Kth Missing Positive in Sorted"
+    "Kth Missing Positive in Sorted",
+    "First Missing Positive"
   ]
 }
