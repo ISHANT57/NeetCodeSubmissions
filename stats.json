@@ -1,13 +1,13 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 5,
-    "hard": 0,
+    "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
@@ -17,14 +17,16 @@
     "LeetCode_Longest_Common_Prefix": true,
     "LeetCode_Group_Anagrams": true,
     "LeetCode_Valid_Sudoku": true,
-    "LeetCode_Reorder_List": true
+    "LeetCode_Reorder_List": true,
+    "LeetCode_Merge_k_Sorted_Lists": true
   },
   "activityHistory": {
     "2026-11-16": 2,
     "2026-11-24": 4,
-    "2026-11-25": 1
+    "2026-11-25": 2
   },
   "todayProblems": [
-    "Reorder List"
+    "Reorder List",
+    "Merge k Sorted Lists"
   ]
 }
