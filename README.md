@@ -6,3 +6,4 @@
 | 4 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 24 Nov 2026 | 04:40 pm |
 | 5 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 24 Nov 2026 | 04:49 pm |
 | 6 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 24 Nov 2026 | 10:11 pm |
+| 7 | [Reorder List](./LeetCode/Medium/Reorder%20List) | [LeetCode](https://leetcode.com/problems/reorder-list/) | Medium | 25 Nov 2026 | 12:28 am |
