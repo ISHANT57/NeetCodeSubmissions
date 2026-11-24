@@ -9,3 +9,4 @@
 | 7 | [Reorder List](./LeetCode/Medium/Reorder%20List) | [LeetCode](https://leetcode.com/problems/reorder-list/) | Medium | 25 Nov 2026 | 12:28 am |
 | 8 | [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 25 Nov 2026 | 01:14 am |
 | 9 | [Reverse Nodes in k-Group](./LeetCode/Hard/Reverse%20Nodes%20in%20k-Group) | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | 25 Nov 2026 | 01:33 am |
+| 10 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 25 Nov 2026 | 01:50 am |
