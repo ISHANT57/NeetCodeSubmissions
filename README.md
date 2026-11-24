@@ -5,3 +5,4 @@
 | 3 | [Implement Trie (Prefix Tree)](./LeetCode/Medium/Implement%20Trie%20(Prefix%20Tree)) | [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | 24 Nov 2026 | 04:32 pm |
 | 4 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 24 Nov 2026 | 04:40 pm |
 | 5 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 24 Nov 2026 | 04:49 pm |
+| 6 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 24 Nov 2026 | 10:11 pm |

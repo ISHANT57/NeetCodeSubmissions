@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-11-24",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -15,15 +15,17 @@
     "LeetCode_Last_Stone_Weight": true,
     "LeetCode_Implement_Trie_(Prefix_Tree)": true,
     "LeetCode_Longest_Common_Prefix": true,
-    "LeetCode_Group_Anagrams": true
+    "LeetCode_Group_Anagrams": true,
+    "LeetCode_Valid_Sudoku": true
   },
   "activityHistory": {
     "2026-11-16": 2,
-    "2026-11-24": 3
+    "2026-11-24": 4
   },
   "todayProblems": [
     "Implement Trie (Prefix Tree)",
     "Longest Common Prefix",
-    "Group Anagrams"
+    "Group Anagrams",
+    "Valid Sudoku"
   ]
 }
