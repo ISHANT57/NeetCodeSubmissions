@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/rotting-oranges/)
 
 ## Solved On
-28 Sept 2026 at 09:17 pm
+26 Nov 2026 at 07:53 pm
 
 <p>You are given an <code>m x n</code> <code>grid</code> where each cell can have one of three values:</p>
 

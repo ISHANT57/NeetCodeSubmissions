@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-26",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 9,
+    "medium": 10,
     "hard": 2,
     "basic": 0
   },
@@ -23,16 +23,18 @@
     "LeetCode_Subsets": true,
     "GeeksForGeeks_Previous_Greater_Element": true,
     "LeetCode_Redundant_Connection": true,
-    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true,
+    "LeetCode_Rotting_Oranges": true
   },
   "activityHistory": {
     "2026-11-16": 2,
     "2026-11-24": 4,
     "2026-11-25": 5,
-    "2026-11-26": 2
+    "2026-11-26": 3
   },
   "todayProblems": [
     "Redundant Connection",
-    "Lowest Common Ancestor of a Binary Search Tree"
+    "Lowest Common Ancestor of a Binary Search Tree",
+    "Rotting Oranges"
   ]
 }

@@ -13,3 +13,4 @@
 | 11 | [Previous Greater Element](./GeeksForGeeks/Medium/Previous%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/previous-greater-element/1) | Medium | 25 Nov 2026 | 09:21 am |
 | 12 | [Redundant Connection](./LeetCode/Medium/Redundant%20Connection) | [LeetCode](https://leetcode.com/problems/redundant-connection/) | Medium | 26 Nov 2026 | 07:22 pm |
 | 13 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 26 Nov 2026 | 07:26 pm |
+| 14 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 26 Nov 2026 | 07:53 pm |
