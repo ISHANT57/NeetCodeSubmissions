@@ -1,11 +1,11 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-26",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 13,
     "hard": 2,
     "basic": 0
@@ -28,13 +28,14 @@
     "LeetCode_Generate_Parentheses": true,
     "LeetCode_Minimum_Path_Sum": true,
     "LeetCode_Decode_Ways": true,
-    "LeetCode_Is_Subsequence": true
+    "LeetCode_Is_Subsequence": true,
+    "LeetCode_Min_Cost_Climbing_Stairs": true
   },
   "activityHistory": {
     "2026-11-16": 2,
     "2026-11-24": 4,
     "2026-11-25": 5,
-    "2026-11-26": 7
+    "2026-11-26": 8
   },
   "todayProblems": [
     "Redundant Connection",
@@ -43,6 +44,7 @@
     "Generate Parentheses",
     "Minimum Path Sum",
     "Decode Ways",
-    "Is Subsequence"
+    "Is Subsequence",
+    "Min Cost Climbing Stairs"
   ]
 }
