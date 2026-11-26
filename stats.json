@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-11-25",
-  "todayCount": 5,
+  "totalSolved": 12,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-11-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 7,
+    "medium": 8,
     "hard": 2,
     "basic": 0
   },
@@ -21,18 +21,16 @@
     "LeetCode_Merge_k_Sorted_Lists": true,
     "LeetCode_Reverse_Nodes_in_k-Group": true,
     "LeetCode_Subsets": true,
-    "GeeksForGeeks_Previous_Greater_Element": true
+    "GeeksForGeeks_Previous_Greater_Element": true,
+    "LeetCode_Redundant_Connection": true
   },
   "activityHistory": {
     "2026-11-16": 2,
     "2026-11-24": 4,
-    "2026-11-25": 5
+    "2026-11-25": 5,
+    "2026-11-26": 1
   },
   "todayProblems": [
-    "Reorder List",
-    "Merge k Sorted Lists",
-    "Reverse Nodes in k-Group",
-    "Subsets",
-    "Previous Greater Element"
+    "Redundant Connection"
   ]
 }

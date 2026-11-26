@@ -11,3 +11,4 @@
 | 9 | [Reverse Nodes in k-Group](./LeetCode/Hard/Reverse%20Nodes%20in%20k-Group) | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | 25 Nov 2026 | 01:33 am |
 | 10 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 25 Nov 2026 | 01:50 am |
 | 11 | [Previous Greater Element](./GeeksForGeeks/Medium/Previous%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/previous-greater-element/1) | Medium | 25 Nov 2026 | 09:21 am |
+| 12 | [Redundant Connection](./LeetCode/Medium/Redundant%20Connection) | [LeetCode](https://leetcode.com/problems/redundant-connection/) | Medium | 26 Nov 2026 | 07:22 pm |
