@@ -19,3 +19,4 @@
 | 17 | [Decode Ways](./LeetCode/Medium/Decode%20Ways) | [LeetCode](https://leetcode.com/problems/decode-ways/) | Medium | 26 Nov 2026 | 08:07 pm |
 | 18 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 26 Nov 2026 | 08:08 pm |
 | 19 | [Min Cost Climbing Stairs](./LeetCode/Easy/Min%20Cost%20Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 26 Nov 2026 | 10:22 pm |
+| 20 | [Geek's Training](./GeeksForGeeks/Medium/Geek's%20Training) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geeks-training/1) | Medium | 26 Nov 2026 | 10:30 pm |
