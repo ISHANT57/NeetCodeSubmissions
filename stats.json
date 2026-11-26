@@ -1,11 +1,11 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-26",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 13,
     "hard": 2,
     "basic": 0
@@ -27,13 +27,14 @@
     "LeetCode_Rotting_Oranges": true,
     "LeetCode_Generate_Parentheses": true,
     "LeetCode_Minimum_Path_Sum": true,
-    "LeetCode_Decode_Ways": true
+    "LeetCode_Decode_Ways": true,
+    "LeetCode_Is_Subsequence": true
   },
   "activityHistory": {
     "2026-11-16": 2,
     "2026-11-24": 4,
     "2026-11-25": 5,
-    "2026-11-26": 6
+    "2026-11-26": 7
   },
   "todayProblems": [
     "Redundant Connection",
@@ -41,6 +42,7 @@
     "Rotting Oranges",
     "Generate Parentheses",
     "Minimum Path Sum",
-    "Decode Ways"
+    "Decode Ways",
+    "Is Subsequence"
   ]
 }
