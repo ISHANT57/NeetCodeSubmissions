@@ -13,17 +13,12 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
-
-        while root:
-
-            if root.val > p.val and root.val>q.val:
+        
+        while (root.val-p.val)*(root.val-q.val)>0:
+            if root.val>p.val:
                 root=root.left
-
             
-            elif root.val<p.val and root.val<q.val:
-                root=root.right
-            
-
             else:
-                return root
-
+                root=root.right
+        
+        return root
