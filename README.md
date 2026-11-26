@@ -16,3 +16,4 @@
 | 14 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 26 Nov 2026 | 07:53 pm |
 | 15 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 26 Nov 2026 | 07:57 pm |
 | 16 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 26 Nov 2026 | 08:05 pm |
+| 17 | [Decode Ways](./LeetCode/Medium/Decode%20Ways) | [LeetCode](https://leetcode.com/problems/decode-ways/) | Medium | 26 Nov 2026 | 08:07 pm |
