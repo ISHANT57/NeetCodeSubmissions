@@ -14,3 +14,4 @@
 | 12 | [Redundant Connection](./LeetCode/Medium/Redundant%20Connection) | [LeetCode](https://leetcode.com/problems/redundant-connection/) | Medium | 26 Nov 2026 | 07:22 pm |
 | 13 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 26 Nov 2026 | 07:26 pm |
 | 14 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 26 Nov 2026 | 07:53 pm |
+| 15 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 26 Nov 2026 | 07:57 pm |
