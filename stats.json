@@ -1,12 +1,12 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 20,
+    "medium": 21,
     "hard": 2,
     "basic": 0
   },
@@ -38,14 +38,15 @@
     "LeetCode_Longest_Increasing_Subsequence": true,
     "LeetCode_Number_of_Islands": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
-    "LeetCode_Guess_Number_Higher_or_Lower": true
+    "LeetCode_Guess_Number_Higher_or_Lower": true,
+    "LeetCode_Reachable_Nodes_With_Restrictions": true
   },
   "activityHistory": {
     "2026-11-16": 2,
     "2026-11-24": 4,
     "2026-11-25": 5,
     "2026-11-26": 9,
-    "2026-11-27": 8
+    "2026-11-27": 9
   },
   "todayProblems": [
     "Minimum Falling Path Sum",
@@ -55,6 +56,7 @@
     "Longest Increasing Subsequence",
     "Number of Islands",
     "Lowest Common Ancestor of a Binary Tree",
-    "Guess Number Higher or Lower"
+    "Guess Number Higher or Lower",
+    "Reachable Nodes With Restrictions"
   ]
 }
