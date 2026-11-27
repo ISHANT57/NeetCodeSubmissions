@@ -26,3 +26,4 @@
 | 24 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 27 Nov 2026 | 03:04 pm |
 | 25 | [Longest Increasing Subsequence](./LeetCode/Medium/Longest%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | 27 Nov 2026 | 03:12 pm |
 | 26 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 27 Nov 2026 | 03:22 pm |
+| 27 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 27 Nov 2026 | 03:23 pm |
