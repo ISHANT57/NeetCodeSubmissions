@@ -22,3 +22,4 @@
 | 20 | [Geek's Training](./GeeksForGeeks/Medium/Geek's%20Training) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geeks-training/1) | Medium | 26 Nov 2026 | 10:30 pm |
 | 21 | [Minimum Falling Path Sum](./LeetCode/Medium/Minimum%20Falling%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | 27 Nov 2026 | 01:41 pm |
 | 22 | [Minimum Absolute Difference](./LeetCode/Easy/Minimum%20Absolute%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | 27 Nov 2026 | 01:56 pm |
+| 23 | [H-Index](./LeetCode/Medium/H-Index) | [LeetCode](https://leetcode.com/problems/h-index/) | Medium | 27 Nov 2026 | 02:26 pm |
