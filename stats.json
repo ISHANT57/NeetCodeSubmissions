@@ -1,12 +1,12 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 17,
+    "medium": 18,
     "hard": 2,
     "basic": 0
   },
@@ -34,19 +34,21 @@
     "LeetCode_Minimum_Falling_Path_Sum": true,
     "LeetCode_Minimum_Absolute_Difference": true,
     "LeetCode_H-Index": true,
-    "LeetCode_Merge_Intervals": true
+    "LeetCode_Merge_Intervals": true,
+    "LeetCode_Longest_Increasing_Subsequence": true
   },
   "activityHistory": {
     "2026-11-16": 2,
     "2026-11-24": 4,
     "2026-11-25": 5,
     "2026-11-26": 9,
-    "2026-11-27": 4
+    "2026-11-27": 5
   },
   "todayProblems": [
     "Minimum Falling Path Sum",
     "Minimum Absolute Difference",
     "H-Index",
-    "Merge Intervals"
+    "Merge Intervals",
+    "Longest Increasing Subsequence"
   ]
 }

@@ -24,3 +24,4 @@
 | 22 | [Minimum Absolute Difference](./LeetCode/Easy/Minimum%20Absolute%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | 27 Nov 2026 | 01:56 pm |
 | 23 | [H-Index](./LeetCode/Medium/H-Index) | [LeetCode](https://leetcode.com/problems/h-index/) | Medium | 27 Nov 2026 | 02:26 pm |
 | 24 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 27 Nov 2026 | 03:04 pm |
+| 25 | [Longest Increasing Subsequence](./LeetCode/Medium/Longest%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | 27 Nov 2026 | 03:12 pm |
