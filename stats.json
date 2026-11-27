@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 18,
+    "medium": 19,
     "hard": 2,
     "basic": 0
   },
@@ -35,20 +35,22 @@
     "LeetCode_Minimum_Absolute_Difference": true,
     "LeetCode_H-Index": true,
     "LeetCode_Merge_Intervals": true,
-    "LeetCode_Longest_Increasing_Subsequence": true
+    "LeetCode_Longest_Increasing_Subsequence": true,
+    "LeetCode_Number_of_Islands": true
   },
   "activityHistory": {
     "2026-11-16": 2,
     "2026-11-24": 4,
     "2026-11-25": 5,
     "2026-11-26": 9,
-    "2026-11-27": 5
+    "2026-11-27": 6
   },
   "todayProblems": [
     "Minimum Falling Path Sum",
     "Minimum Absolute Difference",
     "H-Index",
     "Merge Intervals",
-    "Longest Increasing Subsequence"
+    "Longest Increasing Subsequence",
+    "Number of Islands"
   ]
 }
