@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-11-26",
-  "todayCount": 9,
+  "totalSolved": 21,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-11-27",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 14,
+    "medium": 15,
     "hard": 2,
     "basic": 0
   },
@@ -30,23 +30,17 @@
     "LeetCode_Decode_Ways": true,
     "LeetCode_Is_Subsequence": true,
     "LeetCode_Min_Cost_Climbing_Stairs": true,
-    "GeeksForGeeks_Geek's_Training": true
+    "GeeksForGeeks_Geek's_Training": true,
+    "LeetCode_Minimum_Falling_Path_Sum": true
   },
   "activityHistory": {
     "2026-11-16": 2,
     "2026-11-24": 4,
     "2026-11-25": 5,
-    "2026-11-26": 9
+    "2026-11-26": 9,
+    "2026-11-27": 1
   },
   "todayProblems": [
-    "Redundant Connection",
-    "Lowest Common Ancestor of a Binary Search Tree",
-    "Rotting Oranges",
-    "Generate Parentheses",
-    "Minimum Path Sum",
-    "Decode Ways",
-    "Is Subsequence",
-    "Min Cost Climbing Stairs",
-    "Geek's Training"
+    "Minimum Falling Path Sum"
   ]
 }
